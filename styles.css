@@ -26,6 +26,24 @@ h2 {
     color: darkgoldenrod;
 }
 
+.container-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px dotted rebeccapurple;
+    margin: 10px;
+}
+
+.container-flex > h2 {
+    background: lightgray;
+}
+
+.item-article {
+    width: 200px;
+    height: 200px;
+    background: lightpink;
+}
+
 footer {
     color: green;
 }
