@@ -22,6 +22,15 @@ a {
     color: darkslategrey
 }
 
+.pub > h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #025157;
+}
+
+.pub > p {
+    color: #343434
+}
+
 h2 {
     color: darkgoldenrod;
 }
