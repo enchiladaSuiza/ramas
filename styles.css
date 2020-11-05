@@ -17,3 +17,15 @@ nav > ul > li{
     margin: 20px;
     text-align: center;
 }
+
+a {
+    color: darkslategrey
+}
+
+h2 {
+    color: darkgoldenrod;
+}
+
+footer {
+    color: green;
+}
