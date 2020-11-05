@@ -1,0 +1,19 @@
+h1 {
+    color: darkred;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+nav > ul {
+    display: inline;
+}
+
+nav > ul > li{
+    display: inline;
+    margin: 20px;
+    text-align: center;
+}
